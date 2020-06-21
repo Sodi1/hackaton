@@ -82,5 +82,5 @@ hack2:
 
 ```bash
 npm install 
-npm run server
+npm run serve
 ```
